@@ -1,0 +1,16 @@
+{
+    "name": "luan220/uTorrent",
+    "description": "uTorrent WEB API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luan",
+            "email": "luan220@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "luan220\\uTorrent\\": "src/"
+        }
+    }
+}
